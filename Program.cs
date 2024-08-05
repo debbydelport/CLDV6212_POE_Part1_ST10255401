@@ -7,6 +7,7 @@ namespace CLDV6212_POE_Part1_ST10255401
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            //add
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
