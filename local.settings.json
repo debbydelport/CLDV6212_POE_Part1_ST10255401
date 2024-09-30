@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+
+    "AllowedHosts": "*",
+    "AzureStorage": {
+      "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=cldvst10255401;AccountKey=hDEXegtv7rMTx4lwqDQ2HRftYFVMd9lWB8wzvzcXZwFoAR5QWFriS9tY7uOElOyJxJGTtsVgytSm+AStc0g4lg==;EndpointSuffix=core.windows.net"
+    },
+    "AzureFunctions": {
+      "FunctionUrl": "https://cldv6212part2.azurewebsites.net/api/Function1?code=jcPgHlZmeWGvMa9IesOA81_a2SRb7zNMq-L2pBvFtqtuAzFuJsoRBw%3D%3D",
+      "ProcessQueueMessageUrl": "https://cldv6212part2.azurewebsites.net/api/ProcessQueueMessage?code=l2Ije4cqVZtjS3SPAWdr-G_0BOs7Ba47WM-KXrB9bSCJAzFuqYnWzg%3D%3D",
+      "StorageTableInfoUrl": "https://cldv6212part2.azurewebsites.net/api/StoreTableInfo?code=RpQ3ig5aJOVRMiXNqdXbq4N-xOOkS18l9m6BmpJg1iznAzFuTL4RwA%3D%3D",
+      "UploadBlobUrl": "https://cldv6212part2.azurewebsites.net/api/UploadBlob?code=RCQuCEXSg_Z-2A5ej7YfmjFtAd734VDAJKBBvW3PdZxxAzFu8HeWyw%3D%3D",
+      "UploadFileUrl": "https://cldv6212part2.azurewebsites.net/api/UploadFile?code=-okdElDDkdXIE62csJAT0NkIKTTth0m5LnpB9QSKMrBoAzFu_zA5BQ%3D%3D"
+    }
+  }
+}
